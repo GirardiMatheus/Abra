@@ -49,8 +49,9 @@
 
 The application uses Python classes to store and manage contact data:
 
-    1. Contact Class: Represents an individual contact, storing details such as name, phone, email, and favorite status.
-    2. ContactList Class: Manages a list of contacts, providing methods for adding, editing, deleting, and viewing contacts.
+   1. Contact Class: Represents an individual contact, storing details such as name, phone, email, and favorite status.
+    
+   2. ContactList Class: Manages a list of contacts, providing methods for adding, editing, deleting, and viewing contacts.
 
 ## Sample Menu
 
